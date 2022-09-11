@@ -1,0 +1,10 @@
+GameId: AXAZB | Player1:  Person | player1Choice: rock | Player2:  PC | player2Choice: paper  | Result: Computer Won.
+
+GameId: AAABZ | Player1:  Person | player1Choice: paper | Player2:  PC | player2Choice: rock  | Result: Player Won.
+
+GameId: ZAXAX | Player1:  Person | player1Choice: scissors | Player2:  PC | player2Choice: scissors  | Result: Tie.
+
+GameId: ZBZBB | Player1:  Person | player1Choice: rock | Player2:  PC | player2Choice: scissors  | Result: Player Won.
+
+GameId: XAAXZ | Player1:  Person | player1Choice: paper | Player2:  PC | player2Choice: scissors  | Result: Computer Won.
+

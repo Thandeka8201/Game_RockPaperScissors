@@ -1,0 +1,27 @@
+﻿
+body {
+    background: yellowgreen;
+    color: #fff;
+}
+.move {
+    font-size: 2rem;
+    font-weight: bold;
+}
+/* displaying two buttons in one line */
+.options {
+    display: flex;
+    width: 50vw;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+}
+/* Styling on all two buttons */
+.personVsPC, .pcVsPC {
+    padding: 0.8rem;
+    width: 100px;
+    border-radius: 10px;
+    background: purple;
+    outline: none;
+    border-color: purple;
+    border: none;
+    cursor: pointer;
+}

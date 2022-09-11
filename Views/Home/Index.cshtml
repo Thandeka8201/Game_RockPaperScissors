@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+        <h1>Rock | Paper | Scissors</h1>
+
+        <div class="move">Choose your game</div>
+
+        <!--Options available to player to choose game-->
+        <div class="options">
+            <a class="personVsPC" asp-controller="Home" asp-action="PersonVsPC">Play Against Computer</a>
+            <a class="pcVsPC" asp-controller="Home" asp-action="PCvsPC">Computer Against Computer</a>
+        </div>
+</div>
